@@ -11,8 +11,8 @@ redirect_from:
 Here is some bla bla bla
 
 Research interests
-======
-My research interests are \textbf{causal inference} and \textbf{causal machine learning}, especially the methods for identifying and estimating causal effects in case of \textbf{many instrumental variables}. I am also interested in the empirical application of these methods to evaluate \textbf{policy interventions} within the field of \textbf{applied microeconometrics}.
+------
+My research interests are causal inference and causal machine learning, especially the methods for identifying and estimating causal effects in case of many instrumental variables. I am also interested in the empirical application of these methods to evaluate policy interventions within the field of applied microeconometrics.
 
 Getting started
 ======
