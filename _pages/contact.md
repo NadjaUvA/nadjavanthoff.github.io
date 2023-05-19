@@ -4,6 +4,6 @@ title: "Contact information"
 author_profile: true
 ---
 
-Some info here
+Some info here:
 
 📧 navh@sam.sdu.dk
