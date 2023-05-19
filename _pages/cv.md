@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my CV here](http://nadjavanthoff.github.io/files/CV_Nadja_vantHoff.pdf)
+[Download my CV](http://nadjauva.github.io/nadjavanthoff/files/CV_Nadja_vantHoff.pdf)
 
 Education
 ======
 
 ![](/images/500x300.png)
 
-<img src='/images/500x300.png'>
+<img src='/images/profile_nadja.png'>
