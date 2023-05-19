@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Welcome"
-excerpt: "About me"
+excerpt: "About me 👋"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 
-:wave:
 
 Research interests
 ------
