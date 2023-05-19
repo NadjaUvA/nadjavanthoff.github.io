@@ -3,13 +3,11 @@ layout: archive
 title: ""
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
 
-[Download my CV](http://nadjavanthoff.github.io/files/CV_Nadja_vantHoff.pdf)
+Download my CV 👉 [here](files/CV_Nadja_vantHoff.pdf)
 
 
 
