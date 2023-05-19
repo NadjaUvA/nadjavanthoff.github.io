@@ -6,12 +6,13 @@ author_profile: true
 
 {% include base_path %}
 
-[Download my CV](http://nadjauva.github.io/nadjavanthoff/files/CV_Nadja_vantHoff.pdf)
+Testing
 
 [Download my CV]('http://nadjauva.github.io/nadjavanthoff/files/CV_Nadja_vantHoff.pdf')
 
-[Download my CV](https://github.com/NadjaUvA/nadjavanthoff.github.io/blob/50f568b1622a541e169e725e5fba8f10d4280d76/files/CV_Nadja_vantHoff.pdf)
+[Download my CV]('http://nadjavanthoff.github.io/files/CV_Nadja_vantHoff.pdf')
 
+[Download my CV](http://nadjavanthoff.github.io/files/CV_Nadja_vantHoff.pdf)
 
 ---
 title: "Paper Title Number 2"
