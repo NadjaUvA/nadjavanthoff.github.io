@@ -1,9 +1,15 @@
 ---
 permalink: /some_file/
-title: "Testing"
-modified: 2016-06-06
+title: "Teaching"
 ---
 
 {% include base_path %}
 
-Bla bla
+Teaching experience
+------
+
+* Course 1
+
+* Course 2 
+
+* Course 3
