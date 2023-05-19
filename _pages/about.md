@@ -21,6 +21,8 @@ My research interests are causal inference and causal machine learning, especial
 
 ![Test image 3](/images/mstile-150x150.png)
 
+![Test image 4](images/mstile-150x150.png)
+
 <img src="/images/foo-bar-identity.jpg"
      alt="some image"
      style="float: left; margin-right: 10px;" />
