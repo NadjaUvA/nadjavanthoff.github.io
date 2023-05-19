@@ -11,6 +11,6 @@ main:
     # url: /teaching/   
     url: /some_file/ 
 
-    - title: "Contact" 
+  - title: "Contact" 
     url: /contact/ 
     
