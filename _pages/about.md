@@ -16,4 +16,4 @@ My research interests are causal inference and causal machine learning, especial
 
 ![Test image](site-logo.png)
 
-![Test image](images/site-logo.png)
+![Test image](/images/mstile-150x150.png)
