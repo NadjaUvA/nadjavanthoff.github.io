@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome :wave:"
+title: "Welcome"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+
+:wave:
 
 Research interests
 ------
