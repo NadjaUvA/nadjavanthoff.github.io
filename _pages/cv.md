@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download my CV here](http://nadjavanthoff.github.io/files/CV Nadja van 't Hoff.pdf)
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
