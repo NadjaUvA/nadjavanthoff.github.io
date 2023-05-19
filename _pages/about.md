@@ -18,10 +18,6 @@ My research interests are causal inference and causal machine learning, especial
 
 [Download my CV](files/CV_Nadja_vantHoff.pdf)
 
-![Download my CV](files/CV_Nadja_vantHoff.pdf)
 
-![Test image 4](images/mstile-150x150.png)
+![Test image](images/mstile-150x150.png)
 
-<img src="files/CV_Nadja_vantHoff.pdf"
-     alt="some image"
-     style="float: left; margin-right: 10px;" />

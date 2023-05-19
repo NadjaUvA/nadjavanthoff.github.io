@@ -6,7 +6,7 @@ author_profile: true
 
 You can add your research here!
 
-Research interests
+Research interestss
 ------
 
 This is an update
