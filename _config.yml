@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Nadja van 't Hoff"
 description              : &description "personal description"
