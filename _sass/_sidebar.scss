@@ -14,7 +14,7 @@
   margin-bottom: 1em;
 
   @include breakpoint($x-large) {
-    @include span(2 of 12);
+    @include span(4 of 12);
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
@@ -35,7 +35,7 @@
   }
 
   h3, h4 {
-    font-size: $type-size-5;
+    font-size: $type-size-6;
   }
 
   p, li {
@@ -52,7 +52,7 @@
 .sidebar__right {
   margin-bottom: 1em;
 
-  @include breakpoint($large) {
+  @include breakpoint($x-large) {
     position: relative;
     float: right;
     width: $right-sidebar-width-narrow;
