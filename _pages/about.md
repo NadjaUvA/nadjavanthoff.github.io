@@ -15,6 +15,12 @@ Research interests
 My research interests are causal inference and causal machine learning, especially the methods for identifying and estimating causal effects in case of many instrumental variables. I am also interested in the empirical application of these methods to evaluate policy interventions within the field of applied microeconometrics.
 
 
+[Download my CV](http://nadjavanthoff.github.io/files/CV_Nadja_vantHoff.pdf)
+
+[Download my CV](http://nadjauva.github.io/files/CV_Nadja_vantHoff.pdf)
+
+[Download my CV](http://nadjauva.github.io/nadjavanthoff/files/CV_Nadja_vantHoff.pdf)
+
 ![TEst image](/images/foo-bar-identity.jpg)
 
 ![Test image 2](site-logo.png)
