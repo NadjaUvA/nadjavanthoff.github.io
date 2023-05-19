@@ -4,7 +4,8 @@ main:
     url: /publications/
     
   - title: "CV"
-    url: /cv/
+    # url: /cv/
+    url: files/CV_Nadja_vantHoff.pdf
 
   - title: "Teaching"
     url: /teaching/    
