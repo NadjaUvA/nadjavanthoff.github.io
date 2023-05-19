@@ -8,7 +8,8 @@ main:
     url: files/CV_Nadja_vantHoff.pdf
 
   - title: "Teaching"
-    url: /teaching/    
+    # url: /teaching/   
+    url: /terms/ 
     
   - title: "Contact"
     url: /portfolio/
