@@ -8,6 +8,10 @@ redirect_from:
 
 {% include base_path %}
 
+[Download my CV](http://nadjauva.github.io/nadjavanthoff/files/CV_Nadja_vantHoff.pdf)
+
+
+
 
 Education
 ======
