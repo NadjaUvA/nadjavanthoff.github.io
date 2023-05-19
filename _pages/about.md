@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-👋
+👋 Hello world
 
 Research interests
 ------
