@@ -5,3 +5,5 @@ author_profile: true
 ---
 
 Some info here
+
+📧 navh@sam.sdu.dk
