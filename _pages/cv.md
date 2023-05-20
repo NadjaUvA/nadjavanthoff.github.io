@@ -11,3 +11,4 @@ author_profile: true
 
 [Download my CV here!](files/CV_Nadja_vantHoff.pdf)
 
+You can find my CV [here](CV_Nadja_vantHoff.pdf)
