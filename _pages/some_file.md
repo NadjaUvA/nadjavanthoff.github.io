@@ -5,18 +5,16 @@ title: "Teaching"
 
 {% include base_path %}
 
-Teaching experience
 
-
-Lecturer
+Lecturer - Statistics for Product Development and Innovation
 ------
 
-* Course 1
-
-* Course 2 
-
-* Course 3
+University of Southern Denmark
+* Fall semester 2021
+* Fall semester 2022
 
 
-Teaching assistant
+Teaching assistant - Microeconometrics
 ------
+* Fall semester 2020
+* Fall semester 2021
