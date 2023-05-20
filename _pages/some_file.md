@@ -14,7 +14,7 @@ Lecturer - Statistics for Product Development and Innovation
 * Fall semester 2021
 * Fall semester 2022
 
-</br>
+</br><br/>
 
 Teaching assistant - Microeconometrics
 ------
