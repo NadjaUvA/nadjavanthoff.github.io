@@ -32,7 +32,7 @@ I provide formulas for the weighting function which shed light on the interpreta
 ------
 
 
-## Should we Tax Unhealthy Food? Evidence Using Exogenous Variation from the Danish ‘Fat Tax’
+> ## Should we Tax Unhealthy Food? Evidence Using Exogenous Variation from the Danish ‘Fat Tax’
 
 *with [Christian Møller Dahl](https://portal.findresearcher.sdu.dk/en/persons/christian-m%C3%B8ller-dahl), [Giovanni Mellace](https://sites.google.com/site/giovannimellace/), and [Sinne Smed](https://ifro.ku.dk/english/staff/?pure=en%2Fpersons%2Fsinne-smed(1eeed0bc-bded-473c-bd06-98706e028225).html)*
 
@@ -40,6 +40,6 @@ I provide formulas for the weighting function which shed light on the interpreta
 
 ------
 
-## Long Term Effects of Migration on Attitudes Towards Migrants: A Machine Learning Approach
+> ## Long Term Effects of Migration on Attitudes Towards Migrants: A Machine Learning Approach
 
 *with [Anna Baiardi](https://annabaiardi.weebly.com/) and [Andrea Naghi](https://sites.google.com/view/anaghi/home)*
