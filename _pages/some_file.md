@@ -1,6 +1,6 @@
 ---
 permalink: /some_file/
-title: "Teaching"
+title: ""
 ---
 
 {% include base_path %}
