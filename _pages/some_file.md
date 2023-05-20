@@ -6,6 +6,9 @@ title: "Teaching"
 {% include base_path %}
 
 Teaching experience
+
+
+Lecturer
 ------
 
 * Course 1
@@ -13,3 +16,7 @@ Teaching experience
 * Course 2 
 
 * Course 3
+
+
+Teaching assistant
+------

@@ -1,9 +1,10 @@
 ---
 permalink: /contact/
-title: "Contact information"
+title: ""
 author_profile: true
 ---
 
-Some info here:
+Get in touch by e-mail:
 
 📧 navh@sam.sdu.dk
+

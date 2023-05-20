@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-👋 Welcome
+Welcome
 ------
 I am a PhD candiate at the Econometrics and Data Science group at the Department of Economics at the University of Southern Denmark (SDU). Expected graduation data is January 2024. My supervisor is [Giovanni Mellace](https://sites.google.com/site/giovannimellace/) and my co-supervisor is [Christian Møller Dahl](https://portal.findresearcher.sdu.dk/en/persons/christian-m%C3%B8ller-dahl). 
 
