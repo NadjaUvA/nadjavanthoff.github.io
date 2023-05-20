@@ -8,12 +8,14 @@ author_profile: true
 Job Market paper
 ------
 
-## Identifying Causal Effects of Discrete, Ordered Treatments with Multiple Instrumental Variables
+## > Identifying Causal Effects of Discrete, Ordered Treatments with Multiple Instrumental Variables
+
+> Identifying Causal Effects of Discrete, Ordered Treatments with Multiple Instrumental Variables
 
 #### Abstract
 
 This paper contributes to the literature on identifying causal effects of discrete, ordered treatments when multiple instruments are available. I show that a weighted average of local average treatment effects for combined complier populations is identified under the limited monotonicity assumption.  Offering intuitive weights and encompassing a larger complier population, the proposed estimand presents an attractive alternative to the conventional two-stage least squares estimand.
-I provide formulas for the weighting function which shed light on the interpretation of the estimates. Necessary conditions that arise from these formulas provide testable implications for the limited monotonicity assumption. I demonstrate how causal forests can be used to detect local violations of this assumption. The results are implemented in an application of the effects of community nurseries on child health outcomes, leveraging recent advances in machine learning methods to preserve the interpretation of the parameter.
+I provide formulas for the weighting function which shed light on the interpretation of the estimates. Necessary conditions that arise from these formulas provide testable implications for the limited monotonicity assumption. I demonstrate how causal forests can be used to detect local violations of this assumption. The results are implemented in an application of the effects of community nurseries on child health outcomes, leveraging recent advances in machine learning methods to preserve the interpretation of the parameter. {: .notice}
 
 
 
