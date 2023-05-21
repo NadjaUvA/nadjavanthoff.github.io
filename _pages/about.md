@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Nadja van 't Hoff"
+title: "Welcome"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome
+Nadja van 't Hoff
 ------
 I am a **PhD candidate** at the Econometrics and Data Science group at the Department of Economics, University of Southern Denmark (SDU). Expected graduation date is January 2024. My supervisor is [Giovanni Mellace](https://sites.google.com/site/giovannimellace/) and my co-supervisor is [Christian Møller Dahl](https://portal.findresearcher.sdu.dk/en/persons/christian-m%C3%B8ller-dahl). 
 
