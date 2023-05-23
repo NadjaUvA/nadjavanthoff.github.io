@@ -9,7 +9,7 @@ main:
 
   - title: "Teaching"
     # url: /teaching/   
-    url: /some_file/ 
+    url: /teaching/ 
 
   - title: "Contact" 
     url: /contact/ 

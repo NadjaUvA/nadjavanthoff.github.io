@@ -1,5 +1,5 @@
 ---
-permalink: /some_file/
+permalink: /teaching/
 title: ""
 ---
 
