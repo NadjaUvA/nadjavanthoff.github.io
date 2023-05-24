@@ -24,7 +24,12 @@ $~~~~~~~~~~~$
 
 *with [Arthur Lewbel](https://sites.google.com/bc.edu/arthur-lewbel/home) and [Giovanni Mellace](https://sites.google.com/site/giovannimellace/)*
 
-> We consider a framework with an endogenous binary treatment and two or more valid binary instruments. First, we introduce a novel limited monotonicity assumption than is generally weaker than alternative monotonicity assumptions considered in the literature and allows for a rich choice heterogeneity. We then show how to identify the the Combined Complier Local Average Treatment Effect (CC-LATE), which is arguably a more policy relevant parameter than the weighted average of LATEs identified by TSLS. Finally, we estimate the effect of learning one's HIV status on protective behaviors.
+> We consider estimating a local average treatment effect given an endogenous binary treatment and two or more valid binary instruments. We propose a novel limited monotonicity
+assumption that is generally weaker than alternative monotonicity assumptions considered in
+the literature, and allows for a great deal of choice heterogeneity. Using this limited monotonicity, we define and identify the Combined Complier Local Average Treatment Effect
+(CC-LATE), which is arguably a more policy relevant parameter than the weighted average
+of LATEs identified by Two Stage Least Squares. We apply our results to estimate the effect
+of learning one’s HIV status on protective behaviors.
 
 Download: [📄](/files/LiM-CCLATE.pdf)
 
