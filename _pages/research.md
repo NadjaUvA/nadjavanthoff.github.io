@@ -38,9 +38,14 @@ $~~~~~~~~~~~$
 # Work in progress
 ------
 
-## Should we Tax Unhealthy Food? Evidence Using Exogenous Variation from the Danish ‘Fat Tax’
+## Nuging Nutrition: Lessons from the Danish ‘Fat Tax’
 
 *with [Christian Møller Dahl](https://portal.findresearcher.sdu.dk/en/persons/christian-m%C3%B8ller-dahl), [Giovanni Mellace](https://sites.google.com/site/giovannimellace/), and [Sinne Smed](https://ifro.ku.dk/english/staff/?pure=en%2Fpersons%2Fsinne-smed(1eeed0bc-bded-473c-bd06-98706e028225).html)*
+
+
+## The Unintended Effects of the Danish ‘Fat Tax’
+
+*with [Christian Møller Dahl](https://portal.findresearcher.sdu.dk/en/persons/christian-m%C3%B8ller-dahl), [Giovanni Mellace](https://sites.google.com/site/giovannimellace/)*
 
 
 ## Long Term Effects of Migration on Attitudes Towards Migrants: A Machine Learning Approach
