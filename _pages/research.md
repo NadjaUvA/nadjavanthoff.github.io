@@ -11,7 +11,7 @@ author_profile: true
 
 ## Identifying Causal Effects of Discrete, Ordered Treatments with Multiple Instrumental Variables
 
-> This paper contributes to the literature on identifying causal effects of discrete, ordered treatments when multiple instruments are available. I show that a weighted average of local average treatment effects for combined complier populations is identified under the limited monotonicity assumption.  Offering intuitive weights and encompassing a larger complier population, the proposed estimand presents an attractive alternative to the conventional two-stage least squares estimand. I provide formulas for the weighting function which shed light on the interpretation of the estimates. Necessary conditions that arise from these formulas provide testable implications for the limited monotonicity assumption. I demonstrate how causal forests can be used to detect local violations of this assumption. The results are implemented in an application of the effects of community nurseries on child health outcomes, leveraging recent advances in machine learning methods to preserve the interpretation of the parameter.
+> This paper addresses the challenge of identifying causal effects of discrete, ordered treatments with multiple binary instruments. I show that a weighted average of local average treatment effects for combined complier populations is identified under the limited monotonicity assumption. The proposed estimand offers intuitive weights and encompasses a large complier population, presenting an appealing alternative to the conventional two-stage least squares estimand. I provide explicit formulas for the weighting function. These formulas give rise to necessary conditions that provide testable implications for the limited monotonicity assumption. I demonstrate how causal forests can be employed to detect local violations of this assumption. The methodology is applied to study the impact of community nurseries on child health outcomes.
 
 Download: [📄](/files/Abstract-JMP.pdf)
 
@@ -24,12 +24,7 @@ $~~~~~~~~~~~$
 
 *with [Arthur Lewbel](https://sites.google.com/bc.edu/arthur-lewbel/home) and [Giovanni Mellace](https://sites.google.com/site/giovannimellace/)*
 
-> We consider estimating a local average treatment effect given an endogenous binary treatment and two or more valid binary instruments. We propose a novel limited monotonicity
-assumption that is generally weaker than alternative monotonicity assumptions considered in
-the literature, and allows for a great deal of choice heterogeneity. Using this limited monotonicity, we define and identify the Combined Complier Local Average Treatment Effect
-(CC-LATE), which is arguably a more policy relevant parameter than the weighted average
-of LATEs identified by Two Stage Least Squares. We apply our results to estimate the effect
-of learning one’s HIV status on protective behaviors.
+> We consider identification of a local average treatment effect given an endogenous binary treatment and two or more valid binary instruments. We propose a novel limited monotonicity assumption that is generally weaker than alternative monotonicity assumptions, and that allows for a great deal of choice heterogeneity. Using this limited monotonicity, we define and identify the Combined Complier Local Average Treatment Effect (CC-LATE), which is arguably a more policy-relevant parameter than the weighted average of LATEs identified by Two Stage Least Squares. We apply our results to estimate the effect of learning of one’s HIV status on protective behaviors.
 
 Download: [📄](/files/LiM-CCLATE.pdf)
 
@@ -45,7 +40,7 @@ $~~~~~~~~~~~$
 
 ## The Unintended Effects of the Danish Fat Tax
 
-*[Giovanni Mellace](https://sites.google.com/site/giovannimellace/)*
+*with [Giovanni Mellace](https://sites.google.com/site/giovannimellace/)*
 
 
 ## Long Term Effects of Migration on Attitudes Towards Migrants: A Machine Learning Approach
