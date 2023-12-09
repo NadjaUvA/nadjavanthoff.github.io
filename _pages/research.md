@@ -11,9 +11,14 @@ author_profile: true
 
 ## Identifying Causal Effects of Discrete, Ordered Treatments with Multiple Instrumental Variables
 
-> This paper addresses the challenge of identifying causal effects of discrete, ordered treatments with multiple binary instruments. I show that a weighted average of local average treatment effects for combined complier populations is identified under the limited monotonicity assumption. The proposed estimand offers intuitive weights and encompasses a large complier population, presenting an appealing alternative to the conventional two-stage least squares estimand. I provide explicit formulas for the weighting function. These formulas give rise to necessary conditions that provide testable implications for the limited monotonicity assumption. I demonstrate how causal forests can be employed to detect local violations of this assumption. The methodology is applied to study the impact of community nurseries on child health outcomes.
+> This paper addresses the challenge of identifying causal effects of nonbinary, ordered treatments with multiple binary instruments. Next to presenting novel insights into the widely applied two-stage least squares estimand, I show that a weighted average of local average
+treatment effects for combined complier populations is identified under the limited monotonicity assumption. This novel causal parameter has an intuitive interpretation, offering an
+appealing alternative to two-stage least squares. I employ recent advances in causal machine
+learning for estimation. I further demonstrate how causal forests can be used to detect local
+violations of the underlying limited monotonicity assumption. The methodology is applied
+to study the impact of community nurseries on child health outcomes.
 
-Download: [📄](/files/Abstract-JMP.pdf)
+Download: [📄](/files/JMP.pdf)
 
 $~~~~~~~~~~~$
 
