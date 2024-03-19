@@ -6,7 +6,10 @@ author_profile: true
 
 {% include base_path %}
 
-# Job Market paper
+
+$~~~~~~~~~~~$
+
+# Working papers
 ------
 
 ## Identifying Causal Effects of Nonbinary, Ordered Treatments using Multiple Instrumental Variables
@@ -15,10 +18,6 @@ author_profile: true
 
 Download: [📄](https://arxiv.org/pdf/2311.17575.pdf)
 
-$~~~~~~~~~~~$
-
-# Working papers
-------
 
 ## Limited Monotonicity and the Combined Compliers LATE
 
