@@ -16,7 +16,7 @@ I am an Assistant Professor at the Econometrics and Data Science group at the De
 
 Research interests
 ------
-My research interests are **causal inference** and **causal machine learning**, especially the methods for identifying and estimating causal effects in case of **many instrumental variables**. I am also interested in the empirical application of these methods to evaluate **policy interventions** within the field of health economics using observational data.
+My research is within the field of **microeconometrics**. My interests are **causal inference** and **causal machine learning**, especially the methods for identifying and estimating causal effects in case of **many instrumental variables**. I am also interested in the **empirical application** of these methods to evaluate policy interventions using observational data.
 
 
 <!---
