@@ -14,7 +14,12 @@ $~~~~~~~~~~~$
 
 ## Identifying Causal Effects of Nonbinary, Ordered Treatments using Multiple Instrumental Variables
 
-> This paper presents a method to identify causal effects of ordered, nonbinary treatments using multiple binary instruments. It generalizes two-stage least squares (TSLS) results for multiple instruments to accommodate nonbinary, ordered treatments and any monotonicity assumption, and highlights some shortcomings of TSLS. The key contribution of this paper is the identification of a novel causal parameter which gives the average causal effect for a large complier population and is identified under a mild monotonicity assumption. This result simplifies the interpretation of causal effects and is also broadly applicable due to the lenient nature of the monotonicity assumption, making it a compelling alternative to TSLS. The paper employs recent advances in causal machine learning for estimation. Finally, it demonstrates how causal forests can be used to detect local violations of the underlying monotonicity assumption.
+<details>
+  <summary>Show Abstract</summary>
+  <blockquote>
+  This paper presents a method to identify causal effects of ordered, nonbinary treatments using multiple binary instruments. It generalizes two-stage least squares (TSLS) results for multiple instruments to accommodate nonbinary, ordered treatments and any monotonicity assumption, and highlights some shortcomings of TSLS. The key contribution of this paper is the identification of a novel causal parameter which gives the average causal effect for a large complier population and is identified under a mild monotonicity assumption. This result simplifies the interpretation of causal effects and is also broadly applicable due to the lenient nature of the monotonicity assumption, making it a compelling alternative to TSLS. The paper employs recent advances in causal machine learning for estimation. Finally, it demonstrates how causal forests can be used to detect local violations of the underlying monotonicity assumption.
+  </blockquote>
+</details>
 
 Download: [📄](https://arxiv.org/pdf/2311.17575.pdf)
 
