@@ -5,6 +5,13 @@ title: ""
 
 {% include base_path %}
 
+Lecturer - Regression Analysis
+------
+
+*University of Southern Denmark*
+
+* Fall semester 2024
+
 
 Lecturer - Statistics for Product Development and Innovation
 ------
