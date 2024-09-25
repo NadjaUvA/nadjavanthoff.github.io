@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "About Nadja van 't Hoff"
 title_separator          : "-"
 name                     : &name "Nadja van 't Hoff"
-description              : &description "personal description"
+description              : &description "Assistant Professor in Econometrics and Data Science, SDU"
 url                      : https://nadjavanthoff.com # https://nadjauva.github.io/nadjavanthoff.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "NadjaUvA/nadjavanthoff.github.io"
