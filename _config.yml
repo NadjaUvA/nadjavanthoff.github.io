@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About Nadja van 't Hoff"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Nadja van 't Hoff"
 description              : &description "Assistant Professor in Econometrics and Data Science, SDU"
