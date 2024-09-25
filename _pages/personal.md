@@ -23,7 +23,7 @@ Powerlifting has taught me perseverance, consistency, and patience. I love the p
 
 <div style="text-align: center;">
 
-<h3>Squat:</h3>
+<h3>Squat</h3>
 
 Here's a snapshot of me hitting a squat during competition:
 
@@ -31,7 +31,7 @@ Here's a snapshot of me hitting a squat during competition:
   <img src="/files/squat.JPG" alt="Squat" style="max-width: 60%; height: auto;">
 </p>
 
-<h3>Bench Press:</h3>
+<h3>Bench Press</h3>
 
 The bench press is my favorite lift:
 
@@ -39,7 +39,7 @@ The bench press is my favorite lift:
   <img src="/files/bench.JPG" alt="Bench" style="max-width: 60%; height: auto;">
 </p>
 
-<h3>Deadlift:</h3>
+<h3>Deadlift</h3>
 
 I hit a milestone by successfully deadlifting 150kg:
 
