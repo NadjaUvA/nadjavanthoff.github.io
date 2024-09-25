@@ -2,8 +2,7 @@
 layout: archive
 title: ""
 permalink: /cv/
-redirect_from:
-  - /about/
+redirect_to: "/about/"
 author_profile: true
 robots: noindex
 ---
