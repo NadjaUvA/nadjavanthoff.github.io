@@ -20,26 +20,22 @@ While I’ve been into fitness for years, a powerlifting course during my resear
 Powerlifting has taught me perseverance, consistency, and patience. I love the process of continual improvement, both in the gym and in my research.
 
 
-## My Lifts in Action
 
 <div style="text-align: center;">
 
-<h3>Squat</h3>
-<p>Here is a picture of me performing a squat during competition, where I successfully lifted 125kg:</p>
+<h3>Squat:</h3>
 
 <p>
   <img src="/files/squat.JPG" alt="Squat" style="max-width: 60%; height: auto;">
 </p>
 
-<h3>Bench Press</h3>
-<p>The bench press is my favorite lift:</p>
+<h3>Bench Press:</h3>
 
 <p>
   <img src="/files/bench.JPG" alt="Bench" style="max-width: 60%; height: auto;">
 </p>
 
-<h3>Deadlift</h3>
-<p>I successfully deadlifted 150kg, which was a huge milestone for me:</p>
+<h3>Deadlift:</h3>
 
 <p>
   <img src="/files/deadlift.JPG" alt="Deadlift" style="max-width: 60%; height: auto;">
