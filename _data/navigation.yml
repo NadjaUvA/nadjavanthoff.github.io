@@ -3,8 +3,8 @@ main:
   - title: "Research"
     url: /research/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Resume"
+    url: /resume/
     # url: files/CV_Nadja_vantHoff.pdf
 
   - title: "Teaching"
