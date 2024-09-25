@@ -3,7 +3,7 @@ main:
   - title: "Research"
     url: /research/
     
-  - title: "Resume"
+  - title: "CV"
     url: /resume/
     # url: files/CV_Nadja_vantHoff.pdf
 
@@ -13,4 +13,7 @@ main:
 
   - title: "Contact" 
     url: /contact/ 
+
+  - title: "Personal" 
+    url: /personal/ 
     
