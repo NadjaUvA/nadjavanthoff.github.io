@@ -17,27 +17,34 @@ While I’ve been into fitness for years, a powerlifting course during my resear
 
 Powerlifting has taught me perseverance, consistency, and patience. I love the process of continual improvement, both in the gym and in my research.
 
-![Gold Medal](/files/me.JPG)
-_Celebrating my gold medal win at the Speijers Sports Competition in the 63kg weight class._
+<p align="center">
+  <img src="/files/me.JPG" alt="Gold Medal" style="max-width: 60%; height: auto;">
+</p>
 
-### My Lifts in Action
+## My Lifts in Action
 
-#### Squat
+### Squat
 Here is a picture of me performing a squat during competition, where I successfully lifted 125kg:
 
-![Squat](/files/squat.JPG)
+<p align="center">
+  <img src="/files/squat.JPG" alt="Squat" style="max-width: 60%; height: auto;">
+</p>
 _Squatting 125kg during the Speijers Sports Competition._
 
-#### Bench Press
-The bench press has always been a challenge, but I managed to hit a personal best of 75kg at the meet:
+### Bench Press
+The bench press is my favorite lift:
 
-![Bench](/files/bench.JPG)
+<p align="center">
+  <img src="/files/bench.JPG" alt="Bench" style="max-width: 60%; height: auto;">
+</p>
 _Bench pressing 75kg at the competition._
 
-#### Deadlift
-The deadlift is my favorite lift, and I was able to pull 150kg, which was a huge milestone for me:
+### Deadlift
+I successfully deadlifted 150kg, which was a huge milestone for me:
 
-![Deadlift](/files/deadlift.JPG)
+<p align="center">
+  <img src="/files/deadlift.JPG" alt="Deadlift" style="max-width: 60%; height: auto;">
+</p>
 _Deadlifting 150kg during the competition._
 
 
