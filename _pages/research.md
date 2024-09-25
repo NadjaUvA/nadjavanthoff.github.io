@@ -13,6 +13,7 @@ $~~~~~~~~~~~$
 ------
 
 ## Identifying Causal Effects of Nonbinary, Ordered Treatments using Multiple Instrumental Variables
+(Job Market Paper)
 
 <details>
   <summary>Show Abstract</summary>
