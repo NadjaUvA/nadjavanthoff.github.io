@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Nadja van 't Hoff
+
 ------
 I am an Assistant Professor at the Econometrics and Data Science group at the Department of Economics, University of Southern Denmark (SDU).  
 
