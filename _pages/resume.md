@@ -2,6 +2,8 @@
 layout: archive
 title: ""
 permalink: /resume/
+redirect_from:
+  - /cv/
 author_profile: true
 robots: noindex
 ---
