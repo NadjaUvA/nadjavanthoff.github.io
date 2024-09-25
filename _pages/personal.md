@@ -25,7 +25,7 @@ Powerlifting has taught me perseverance, consistency, and patience. I love the p
 
 <h3>Squat:</h3>
 
-Here is a picture of me performing a squat during competition:
+Here's a snapshot of me hitting a squat during competition:
 
 <p>
   <img src="/files/squat.JPG" alt="Squat" style="max-width: 60%; height: auto;">
@@ -41,7 +41,7 @@ The bench press is my favorite lift:
 
 <h3>Deadlift:</h3>
 
-I successfully deadlifted 150kg, which was a milestone for me:
+I hit a milestone by successfully deadlifting 150kg:
 
 <p>
   <img src="/files/deadlift.JPG" alt="Deadlift" style="max-width: 60%; height: auto;">
