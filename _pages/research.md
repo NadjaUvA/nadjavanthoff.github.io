@@ -17,15 +17,7 @@ $~~~~~~~~~~~$
 <details>
   <summary>Show Abstract</summary>
   <blockquote>
-  This paper introduces a novel method for identifying causal effects of ordered, nonbinary treatments using multiple binary instruments. Extending the two-stage least squares (TSLS)
-  framework, the approach accommodates ordered treatments under any monotonicity assumption. The key contribution is the identification of a new causal parameter that simplifies
-  the interpretation of causal effects and is broadly applicable due to a mild monotonicity
-  assumption, offering a compelling alternative to TSLS. The paper builds upon recent causal
-  machine learning methodology for estimation and demonstrates how causal forests can detect
-  local violations of the underlying monotonicity assumption. The methodology is applied to
-  estimate the returns to education using the seminal dataset of Card (1995) and to evaluate
-  the impact of an additional child on female labor market outcomes using the data from
-  Angrist and Evans (1998).
+  This paper provides new identification results for causal effects of ordered, nonbinary treatments using multiple binary instruments. The key contribution is the identification of a new causal parameter that simplifies the interpretation of causal effects and is applicable in many settings due to a mild monotonicity assumption. This paper further leverages recent advancements in causal machine learning for both estimation and the detection of local violations of the underlying monotonicity assumption. The methodology is applied to estimate the returns to education and assess the impact of having an additional child on female labor market outcomes.
   </blockquote>
 </details>
 
