@@ -30,7 +30,7 @@ $~~~~~~~~~~~$
 <h2>Limited Monotonicity and the Combined Compliers LATE</h2>
 <p>(R&R at Review of Economics and Statistics)</p>
 
-<p>*with <a href="https://sites.google.com/bc.edu/arthur-lewbel/home">Arthur Lewbel</a> and <a href="https://sites.google.com/site/giovannimellace/">Giovanni Mellace</a>*</p>
+<p>with <a href="https://sites.google.com/bc.edu/arthur-lewbel/home">Arthur Lewbel</a> and <a href="https://sites.google.com/site/giovannimellace/">Giovanni Mellace</a></p>
 
 <details>
   <summary>Show Abstract</summary>
@@ -45,7 +45,7 @@ $~~~~~~~~~~~$
 <div class="paragraph-box">
 <h2>Nudging Nutrition: Lessons from the Danish "Fat Tax"</h2>
 
-<p>*with <a href="https://portal.findresearcher.sdu.dk/en/persons/christian-m%C3%B8ller-dahl">Christian Møller Dahl</a>, <a href="https://sites.google.com/site/giovannimellace/">Giovanni Mellace</a>, and <a href="https://ifro.ku.dk/english/staff/?pure=en%2Fpersons%2Fsinne-smed(1eeed0bc-bded-473c-bd06-98706e028225).html">Sinne Smed</a>*</p>
+<p>with <a href="https://portal.findresearcher.sdu.dk/en/persons/christian-m%C3%B8ller-dahl">Christian Møller Dahl</a>, <a href="https://sites.google.com/site/giovannimellace/">Giovanni Mellace</a>, and <a href="https://ifro.ku.dk/english/staff/?pure=en%2Fpersons%2Fsinne-smed(1eeed0bc-bded-473c-bd06-98706e028225).html">Sinne Smed</a></p>
 
 <details>
   <summary>Show Abstract</summary>
@@ -66,7 +66,7 @@ $~~~~~~~~~~~$
 <div class="paragraph-box">
 <h2>Gender Differences in Healthcare Utilization</h2>
 
-<p>*with <a href="https://sites.google.com/site/giovannimellace/">Giovanni Mellace</a> and <a href="https://www.seetha-menon.com/">Seetha Menon</a>*</p>
+<p>with <a href="https://sites.google.com/site/giovannimellace/">Giovanni Mellace</a> and <a href="https://www.seetha-menon.com/">Seetha Menon</a></p>
 
 <details>
   <summary>Show Abstract</summary>
@@ -79,13 +79,13 @@ $~~~~~~~~~~~$
 <div class="paragraph-box">
 <h2>Instrument Selection and Exclusion Violations with Applications to Mendelian Randomization</h2>
 
-<p>*with <a href="https://stephanievonhinke.com/">Stephanie von Hinke</a>, <a href="https://sites.google.com/site/giovannimellace/">Giovanni Mellace</a>, and <a href="https://www.bristol.ac.uk/people/person/Emil-Sorensen-6a1fc4f6-1b8c-41ec-8c66-df1a13902f93/">Emil Sorensen</a>*</p>
+<p>with <a href="https://stephanievonhinke.com/">Stephanie von Hinke</a>, <a href="https://sites.google.com/site/giovannimellace/">Giovanni Mellace</a>, and <a href="https://www.bristol.ac.uk/people/person/Emil-Sorensen-6a1fc4f6-1b8c-41ec-8c66-df1a13902f93/">Emil Sorensen</a></p>
 </div>
 
 <div class="paragraph-box">
 <h2>Heterogeneous Impacts of Microcredit: Insights from Seven Countries Using Generic Machine Learning</h2>
 
-<p>*with <a href="https://annabaiardi.weebly.com/">Anna Baiardi</a> and <a href="https://sites.google.com/view/anaghi/home">Andrea Naghi</a>*</p>
+<p>with <a href="https://annabaiardi.weebly.com/">Anna Baiardi</a> and <a href="https://sites.google.com/view/anaghi/home">Andrea Naghi</a></p>
 </div>
 
 
