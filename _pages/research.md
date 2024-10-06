@@ -62,6 +62,13 @@ $~~~~~~~~~~~$
 
 *with [Giovanni Mellace](https://sites.google.com/site/giovannimellace/) and [Seetha Menon](https://www.seetha-menon.com/)*
 
+<details>
+  <summary>Show Abstract</summary>
+  <blockquote>
+  This paper is the first to causally quantify gender differences in healthcare utilization to better understand the male-female health-survival paradox, where women live longer but experience worse health outcomes. Using rich Danish administrative healthcare data, we apply a staggered difference-in-differences approach that exploits the randomness in treatment timing to estimate the causal impact of adverse health shocks, such as non-fatal heart attacks or strokes, on healthcare use. Our findings suggest that men consistently use more healthcare than women, shedding light on the underlying factors driving gender disparities in health outcomes. These insights contribute to the broader discourse on healthcare equity and inform policy interventions aimed at addressing these imbalances.
+  </blockquote>
+</details>
+
 
 ## Instrument Selection and Exclusion Violations with Applications to Mendelian Randomization
 
