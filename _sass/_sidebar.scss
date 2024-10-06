@@ -126,6 +126,8 @@
 .author__bio {
   font-size: 1.2em;
   margin: 0;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -141,6 +143,8 @@
   z-index: 10;
   position: relative;
   cursor: pointer;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
 
   li:last-child {
     a {
