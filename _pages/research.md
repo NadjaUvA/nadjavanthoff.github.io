@@ -63,9 +63,9 @@ $~~~~~~~~~~~$
 *with [Giovanni Mellace](https://sites.google.com/site/giovannimellace/) and [Seetha Menon](https://www.seetha-menon.com/)*
 
 
-## Instrument Selection and Exclusion Violations: A New Approach with Applications to Mendelian Randomization
+## Instrument Selection and Exclusion Violations with Applications to Mendelian Randomization
 
-*with [Stephani von Hinke](https://stephanievonhinke.com/), [Giovanni Mellace](https://sites.google.com/site/giovannimellace/), and [Emil Sorensen](https://www.bristol.ac.uk/people/person/Emil-Sorensen-6a1fc4f6-1b8c-41ec-8c66-df1a13902f93/)*
+*with [Stephanie von Hinke](https://stephanievonhinke.com/), [Giovanni Mellace](https://sites.google.com/site/giovannimellace/), and [Emil Sorensen](https://www.bristol.ac.uk/people/person/Emil-Sorensen-6a1fc4f6-1b8c-41ec-8c66-df1a13902f93/)*
 
 
 ## Heterogeneous Impacts of Microcredit: Insights from Seven Countries Using Generic Machine Learning
