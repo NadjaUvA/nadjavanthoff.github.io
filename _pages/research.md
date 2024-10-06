@@ -13,8 +13,8 @@ $~~~~~~~~~~~$
 ------
 
 <div class="paragraph-box">
-## Identifying Causal Effects of Nonbinary, Ordered Treatments using Multiple Instrumental Variables
-(Job Market Paper)
+<h2>Identifying Causal Effects of Nonbinary, Ordered Treatments using Multiple Instrumental Variables</h2>
+<p>(Job Market Paper)</p>
 
 <details>
   <summary>Show Abstract</summary>
@@ -23,14 +23,14 @@ $~~~~~~~~~~~$
   </blockquote>
 </details>
 
-Download: [📄](/files/JMP_Nadja_vantHoff.pdf)
+<p>Download: <a href="/files/JMP_Nadja_vantHoff.pdf">📄</a></p>
 </div>
 
+<div class="paragraph-box">
+<h2>Limited Monotonicity and the Combined Compliers LATE</h2>
+<p>(R&R at Review of Economics and Statistics)</p>
 
-## Limited Monotonicity and the Combined Compliers LATE 
-(R&R at Review of Economics and Statistics)
-
-*with [Arthur Lewbel](https://sites.google.com/bc.edu/arthur-lewbel/home) and [Giovanni Mellace](https://sites.google.com/site/giovannimellace/)*
+<p>*with <a href="https://sites.google.com/bc.edu/arthur-lewbel/home">Arthur Lewbel</a> and <a href="https://sites.google.com/site/giovannimellace/">Giovanni Mellace</a>*</p>
 
 <details>
   <summary>Show Abstract</summary>
@@ -39,12 +39,13 @@ Download: [📄](/files/JMP_Nadja_vantHoff.pdf)
   </blockquote>
 </details>
 
-Download: [📄](/files/LiM-CCLATE.pdf)
+<p>Download: <a href="/files/LiM-CCLATE.pdf">📄</a></p>
+</div>
 
+<div class="paragraph-box">
+<h2>Nudging Nutrition: Lessons from the Danish "Fat Tax"</h2>
 
-## Nudging Nutrition: Lessons from the Danish "Fat Tax"
-
-*with [Christian Møller Dahl](https://portal.findresearcher.sdu.dk/en/persons/christian-m%C3%B8ller-dahl), [Giovanni Mellace](https://sites.google.com/site/giovannimellace/), and [Sinne Smed](https://ifro.ku.dk/english/staff/?pure=en%2Fpersons%2Fsinne-smed(1eeed0bc-bded-473c-bd06-98706e028225).html)*
+<p>*with <a href="https://portal.findresearcher.sdu.dk/en/persons/christian-m%C3%B8ller-dahl">Christian Møller Dahl</a>, <a href="https://sites.google.com/site/giovannimellace/">Giovanni Mellace</a>, and <a href="https://ifro.ku.dk/english/staff/?pure=en%2Fpersons%2Fsinne-smed(1eeed0bc-bded-473c-bd06-98706e028225).html">Sinne Smed</a>*</p>
 
 <details>
   <summary>Show Abstract</summary>
@@ -53,7 +54,9 @@ Download: [📄](/files/LiM-CCLATE.pdf)
   </blockquote>
 </details>
 
-Download: [📄](https://arxiv.org/pdf/2312.11481.pdf)
+<p>Download: <a href="https://arxiv.org/pdf/2312.11481.pdf">📄</a></p>
+</div>
+
 
 $~~~~~~~~~~~$
 
