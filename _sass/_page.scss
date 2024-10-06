@@ -402,7 +402,7 @@
 
 .paragraph-box {
   border: 1px solid #d3d3d3; /* Lighter gray border */
-  padding: 15px;
+  padding: 5px 15px 15px 15px; /* Reduced top padding to 5px */
   margin: 0 0 20px 0; /* Remove top margin, keep bottom margin */
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
   border-radius: 5px;
@@ -410,5 +410,6 @@
 }
 
 .paragraph-box h2 {
-  margin-top: 0; /* Ensure no space above the heading */
+  margin: 0; /* Remove all margin around the h2 tag */
+  padding-top: 0; /* Ensure there's no padding on the top of the h2 */
 }
