@@ -63,9 +63,10 @@ $~~~~~~~~~~~$
 # Work in progress
 ------
 
-## Gender Differences in Healthcare Utilization
+<div class="paragraph-box">
+<h2>Gender Differences in Healthcare Utilization</h2>
 
-*with [Giovanni Mellace](https://sites.google.com/site/giovannimellace/) and [Seetha Menon](https://www.seetha-menon.com/)*
+<p>*with <a href="https://sites.google.com/site/giovannimellace/">Giovanni Mellace</a> and <a href="https://www.seetha-menon.com/">Seetha Menon</a>*</p>
 
 <details>
   <summary>Show Abstract</summary>
@@ -73,15 +74,19 @@ $~~~~~~~~~~~$
   This paper is the first to causally quantify gender differences in healthcare utilization to better understand the male-female health-survival paradox, where women live longer but experience worse health outcomes. Using rich Danish administrative healthcare data, we apply a staggered difference-in-differences approach that exploits the randomness in treatment timing to estimate the causal impact of adverse health shocks, such as non-fatal heart attacks or strokes, on healthcare use. Our findings suggest that men consistently use more healthcare than women, shedding light on the underlying factors driving gender disparities in health outcomes. These insights contribute to the broader discourse on healthcare equity and inform policy interventions aimed at addressing these imbalances.
   </blockquote>
 </details>
+</div>
 
+<div class="paragraph-box">
+<h2>Instrument Selection and Exclusion Violations with Applications to Mendelian Randomization</h2>
 
-## Instrument Selection and Exclusion Violations with Applications to Mendelian Randomization
+<p>*with <a href="https://stephanievonhinke.com/">Stephanie von Hinke</a>, <a href="https://sites.google.com/site/giovannimellace/">Giovanni Mellace</a>, and <a href="https://www.bristol.ac.uk/people/person/Emil-Sorensen-6a1fc4f6-1b8c-41ec-8c66-df1a13902f93/">Emil Sorensen</a>*</p>
+</div>
 
-*with [Stephanie von Hinke](https://stephanievonhinke.com/), [Giovanni Mellace](https://sites.google.com/site/giovannimellace/), and [Emil Sorensen](https://www.bristol.ac.uk/people/person/Emil-Sorensen-6a1fc4f6-1b8c-41ec-8c66-df1a13902f93/)*
+<div class="paragraph-box">
+<h2>Heterogeneous Impacts of Microcredit: Insights from Seven Countries Using Generic Machine Learning</h2>
 
+<p>*with <a href="https://annabaiardi.weebly.com/">Anna Baiardi</a> and <a href="https://sites.google.com/view/anaghi/home">Andrea Naghi</a>*</p>
+</div>
 
-## Heterogeneous Impacts of Microcredit: Insights from Seven Countries Using Generic Machine Learning
-
-*with [Anna Baiardi](https://annabaiardi.weebly.com/) and [Andrea Naghi](https://sites.google.com/view/anaghi/home)*
 
 $~~~~~~~~~~~$
