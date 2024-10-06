@@ -76,11 +76,11 @@ $~~~~~~~~~~~$
 </details>
 </div>
 
-<div class="paragraph-box">
+<!-- <div class="paragraph-box">
 <h2>Instrument Selection and Exclusion Violations with Applications to Mendelian Randomization</h2>
 
 <p>with <a href="https://stephanievonhinke.com/">Stephanie von Hinke</a>, <a href="https://sites.google.com/site/giovannimellace/">Giovanni Mellace</a>, and <a href="https://www.bristol.ac.uk/people/person/Emil-Sorensen-6a1fc4f6-1b8c-41ec-8c66-df1a13902f93/">Emil Sorensen</a></p>
-</div>
+</div> -->
 
 <div class="paragraph-box">
 <h2>Heterogeneous Impacts of Microcredit: Insights from Seven Countries Using Generic Machine Learning</h2>
