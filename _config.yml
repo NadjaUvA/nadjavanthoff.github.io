@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Nadja van 't Hoff"
   avatar           : "Nadja_snip.PNG"
-  bio              : "Assistant Professor, University of Southern Denmark"
+  bio              : "Assistant Professor"
   location         : 
-  employer         : # "University of Southern Denmark"
+  employer         : "University of Southern Denmark"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "navh@sam.sdu.dk"
