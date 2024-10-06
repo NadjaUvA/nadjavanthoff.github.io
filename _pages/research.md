@@ -12,6 +12,7 @@ $~~~~~~~~~~~$
 # Working papers
 ------
 
+<div class="paragraph-box">
 ## Identifying Causal Effects of Nonbinary, Ordered Treatments using Multiple Instrumental Variables
 (Job Market Paper)
 
@@ -23,6 +24,7 @@ $~~~~~~~~~~~$
 </details>
 
 Download: [📄](/files/JMP_Nadja_vantHoff.pdf)
+</div>
 
 
 ## Limited Monotonicity and the Combined Compliers LATE 
