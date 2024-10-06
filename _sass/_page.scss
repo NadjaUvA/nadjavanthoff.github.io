@@ -399,3 +399,12 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+.paragraph-box {
+  border: 1px solid gray;
+  padding: 15px;
+  margin: 20px 0;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+  background-color: white;
+}
