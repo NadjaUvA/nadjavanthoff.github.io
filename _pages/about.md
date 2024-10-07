@@ -10,7 +10,7 @@ redirect_from:
 
 
 ------
-I am an Assistant Professor (non-tenured) at the Econometrics and Data Science group at the Department of Economics, University of Southern Denmark (SDU).  
+I am an Assistant Professor (non-tenure-track) at the Econometrics and Data Science group at the Department of Economics, University of Southern Denmark (SDU).  
 
 I will be on the 2024/2025 job market.
 
