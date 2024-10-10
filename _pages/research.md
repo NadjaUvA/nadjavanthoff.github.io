@@ -86,12 +86,6 @@ $~~~~~~~~~~~$
 <h2>Optimal Instruments, Realistic Assumptions: Selecting Instruments and Addressing Exclusion Violations in High-Dimensional IV Models</h2>
 
 <p>with <a href="https://sites.google.com/site/giovannimellace/">Giovanni Mellace</a></p>
-<details>
-  <summary>Show Abstract</summary>
-  <blockquote>
-  This project focuses on settings with many instruments and potential violations of the exclusion restriction. We develop a framework for optimal instrument selection and introduce methods to address violations of the exclusion restriction.
-  </blockquote>
-</details>
 </div>
 
 <div class="paragraph-box">
