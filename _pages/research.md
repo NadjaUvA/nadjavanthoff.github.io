@@ -83,11 +83,9 @@ $~~~~~~~~~~~$
 </div>
 
 <div class="paragraph-box">
-<h2>Optimal Instrument Selection and Addressing Exclusion Restriction Violations in High-Dimensional IV Models</h2>
+<h2>Optimal Instruments, Realistic Assumptions: Selecting Instruments and Addressing Exclusion Violations in High-Dimensional IV Models</h2>
 
 <p>with <a href="https://sites.google.com/site/giovannimellace/">Giovanni Mellace</a></p>
-</div>
-
 <details>
   <summary>Show Abstract</summary>
   <blockquote>
@@ -95,6 +93,21 @@ $~~~~~~~~~~~$
   </blockquote>
 </details>
 </div>
+
+<div class="paragraph-box">
+<h2>Behavioral Traits, Substance Abuse, and Life Outcomes: Insights from Mendelian Randomization with UK Biobank Data</h2>
+
+<p>with <a href="https://stephanievonhinke.com/">Stephanie von Hinke</a>, <a href="https://sites.google.com/site/giovannimellace/">Giovanni Mellace</a> and <a href="https://www.bristol.ac.uk/people/person/Emil-Sorensen-6a1fc4f6-1b8c-41ec-8c66-df1a13902f93/">Emil Sorensen</a></p>
+
+<!-- <details>
+  <summary>Show Abstract</summary>
+  <blockquote>
+  This project utilizes advanced Mendelian randomization techniques to estimate causal effects in two complex domains: the impacts of cannabis and alcohol abuse on educational, labor market, and health outcomes, and the influence of creativity and risk propensity on entrepreneurship. Leveraging the extensive UK Biobank dataset, the study aims to improve the reliability of causal inference in these areas. The findings will provide critical insights for policy interventions, including the potential for adapting educational systems to nurture traits that drive entrepreneurial success.
+  </blockquote>
+</details> -->
+</div>
+
+
 
 
 $~~~~~~~~~~~$
