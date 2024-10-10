@@ -83,11 +83,18 @@ $~~~~~~~~~~~$
 </div>
 
 <div class="paragraph-box">
-<h2>Optimal Instrument Selection and Addressing Exclusion Restriction Violations in High-Dimensional Instrumental Variables Settings</h2>
+<h2>Optimal Instrument Selection and Addressing Exclusion Restriction Violations in High-Dimensional IV Models</h2>
 
 <p>with <a href="https://sites.google.com/site/giovannimellace/">Giovanni Mellace</a></p>
 </div>
 
+<details>
+  <summary>Show Abstract</summary>
+  <blockquote>
+  This project focuses on settings with many instruments and potential violations of the exclusion restriction. We develop a framework for optimal instrument selection and introduce methods to address violations of the exclusion restriction.
+  </blockquote>
+</details>
+</div>
 
 
 $~~~~~~~~~~~$
