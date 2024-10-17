@@ -13,7 +13,7 @@ $~~~~~~~~~~~$
 ------
 
 <div class="paragraph-box">
-<h2>Identifying Causal Effects of Nonbinary, Ordered Treatments using Multiple Instrumental Variables</h2>
+<h2>Identifying Causal Effects of Discrete, Ordered and Continuous Treatments using Multiple Instrumental Variables</h2>
 <p>(Job Market Paper)</p>
 
 <details>
