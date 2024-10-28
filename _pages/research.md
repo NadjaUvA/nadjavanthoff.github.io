@@ -19,7 +19,7 @@ $~~~~~~~~~~~$
 <details>
   <summary>Show Abstract</summary>
   <blockquote>
-  Abstract: Inferring causal relationships from observational data is often challenging due to endogeneity. This paper provides new identification results for causal effects of ordered, nonbinary treatments using multiple binary instruments. The key contribution is the identification of a new causal parameter that simplifies the interpretation of causal effects and is applicable in many settings due to a mild monotonicity assumption. This paper further leverages recent advancements in causal machine learning for both estimation and the detection of local violations of the underlying monotonicity assumption. The methodology is applied to estimate the returns to education and assess the impact of having an additional child on female labor market outcomes.
+  Inferring causal relationships from observational data is often challenging due to endogeneity. This paper provides new identification results for causal effects of ordered, nonbinary treatments using multiple binary instruments. The key contribution is the identification of a new causal parameter that simplifies the interpretation of causal effects and is applicable in many settings due to a mild monotonicity assumption. This paper further leverages recent advancements in causal machine learning for both estimation and the detection of local violations of the underlying monotonicity assumption. The methodology is applied to estimate the returns to education and assess the impact of having an additional child on female labor market outcomes.
   </blockquote>
 </details>
 
