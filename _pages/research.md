@@ -13,7 +13,7 @@ $~~~~~~~~~~~$
 ------
 
 <div class="paragraph-box">
-<h2>Identifying Causal Effects of Discrete, Ordered and Continuous Treatments using Multiple Instrumental Variables</h2>
+<h3>Identifying Causal Effects of Discrete, Ordered and Continuous Treatments using Multiple Instrumental Variables</h3>
 <p>(Job Market Paper)</p>
 
 <details>
@@ -27,7 +27,7 @@ $~~~~~~~~~~~$
 </div>
 
 <div class="paragraph-box">
-<h2>Limited Monotonicity and the Combined Compliers LATE</h2>
+<h3>Limited Monotonicity and the Combined Compliers LATE</h3>
 <p>(R&R at Review of Economics and Statistics)</p>
 
 <p>with <a href="https://sites.google.com/bc.edu/arthur-lewbel/home">Arthur Lewbel</a> and <a href="https://sites.google.com/site/giovannimellace/">Giovanni Mellace</a></p>
@@ -43,7 +43,7 @@ $~~~~~~~~~~~$
 </div>
 
 <div class="paragraph-box">
-<h2>Nudging Nutrition: Lessons from the Danish "Fat Tax"</h2>
+<h3>Nudging Nutrition: Lessons from the Danish "Fat Tax"</h3>
 
 <p>with <a href="https://portal.findresearcher.sdu.dk/en/persons/christian-m%C3%B8ller-dahl">Christian Møller Dahl</a>, <a href="https://sites.google.com/site/giovannimellace/">Giovanni Mellace</a>, and <a href="https://ifro.ku.dk/english/staff/?pure=en%2Fpersons%2Fsinne-smed(1eeed0bc-bded-473c-bd06-98706e028225).html">Sinne Smed</a></p>
 
@@ -64,7 +64,7 @@ $~~~~~~~~~~~$
 ------
 
 <div class="paragraph-box">
-<h2>Gender Differences in Healthcare Utilization</h2>
+<h3>Gender Differences in Healthcare Utilization</h3>
 
 <p>with <a href="https://sites.google.com/site/giovannimellace/">Giovanni Mellace</a> and <a href="https://www.seetha-menon.com/">Seetha Menon</a></p>
 
@@ -77,7 +77,7 @@ $~~~~~~~~~~~$
 </div>
 
 <div class="paragraph-box">
-<h2>Heterogeneous Impacts of Microcredit: Insights from Seven Countries Using Generic Machine Learning</h2>
+<h3>Heterogeneous Impacts of Microcredit: Insights from Seven Countries Using Generic Machine Learning</h3>
 
 <p>with <a href="https://annabaiardi.weebly.com/">Anna Baiardi</a> and <a href="https://sites.google.com/view/anaghi/home">Andrea Naghi</a></p>
 
@@ -90,13 +90,13 @@ $~~~~~~~~~~~$
 </div>
 
 <div class="paragraph-box">
-<h2>Optimal Instruments, Realistic Assumptions: Selecting Instruments and Addressing Exclusion Violations in High-Dimensional IV Models</h2>
+<h3>Optimal Instruments, Realistic Assumptions: Selecting Instruments and Addressing Exclusion Violations in High-Dimensional IV Models</h3>
 
 <p>with <a href="https://sites.google.com/site/giovannimellace/">Giovanni Mellace</a></p>
 </div>
 
 <div class="paragraph-box">
-<h2>Behavioral Traits, Substance Abuse, and Life Outcomes: Insights from Mendelian Randomization with UK Biobank Data</h2>
+<h3>Behavioral Traits, Substance Abuse, and Life Outcomes: Insights from Mendelian Randomization with UK Biobank Data</h3>
 
 <p>with <a href="https://stephanievonhinke.com/">Stephanie von Hinke</a>, <a href="https://sites.google.com/site/giovannimellace/">Giovanni Mellace</a>, and <a href="https://www.bristol.ac.uk/people/person/Emil-Sorensen-6a1fc4f6-1b8c-41ec-8c66-df1a13902f93/">Emil Sorensen</a></p>
 
