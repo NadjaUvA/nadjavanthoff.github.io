@@ -6,48 +6,47 @@
    Default
    ========================================================================== */
 
-.sidebar {
-  -webkit-transform: translate3d(0, 0 , 0);
-          transform: translate3d(0, 0 , 0);
-
-  @include clearfix();
-  margin-bottom: 1em;
-
-  @include breakpoint($large) {
-    @include span(2 of 12);
-    opacity: 1;
-    -webkit-transition: opacity 0.2s ease-in-out;
-            transition: opacity 0.2s ease-in-out;
-
-    &:hover {
+   .sidebar {
+    -webkit-transform: translate3d(0, 0 , 0);
+            transform: translate3d(0, 0 , 0);
+  
+    @include clearfix();
+    margin-bottom: 1em;
+  
+    @include breakpoint($large) {
+      @include span(3 of 12); // Change span(2 of 12) to span(3 of 12) to make the sidebar wider
       opacity: 1;
+      -webkit-transition: opacity 0.2s ease-in-out;
+              transition: opacity 0.2s ease-in-out;
+  
+      &:hover {
+        opacity: 1;
+      }
+    }
+  
+    @include breakpoint($x-large) {
+      padding-right: 0;
+    }
+  
+    h2, h3, h4, h5, h6 {
+      margin-bottom: 0;
+      font-family: $sans-serif-narrow;
+    }
+  
+    h3, h4 {
+      font-size: $type-size-5;
+    }
+  
+    p, li {
+      font-family: $sans-serif;
+      font-size: $type-size-6;
+      line-height: 1.5;
+    }
+  
+    img {
+      width: 100%;
     }
   }
-
-
-  @include breakpoint($x-large) {
-    padding-right: 0;
-  }
-
-  h2, h3, h4, h5, h6 {
-    margin-bottom: 0;
-    font-family: $sans-serif-narrow;
-  }
-
-  h3, h4 {
-    font-size: $type-size-5;
-  }
-
-  p, li {
-    font-family: $sans-serif;
-    font-size: $type-size-6;
-    line-height: 1.5;
-  }
-
-  img {
-    width: 100%;
-  }
-}
 
 .sidebar__right {
   margin-bottom: 1em;
@@ -69,31 +68,31 @@
    Author profile and links
    ========================================================================== */
 
-   .author__avatar {
-    display: table-cell;
-    vertical-align: top;
-    width: 150px; // Increased width to make the picture wider (was 90px)
-    
-    // Remove the commented-out height if you want a consistent aspect ratio
-    // height: 36px;
+.author__avatar {
+  display: table-cell;
+  vertical-align: top;
+  width: 150px; // Increased width to make the picture wider (was 90px)
   
+  // Remove the commented-out height if you want a consistent aspect ratio
+  // height: 36px;
+
+  @include breakpoint($large) {
+    display: block;
+    width: 200px; // Adjust for larger screens if necessary
+    height: auto;
+  }
+
+  img {
+    max-width: 100%; // Ensure the image scales to fit the container width
+    border-radius: 0%;
+
     @include breakpoint($large) {
-      display: block;
-      width: 200px; // Adjust for larger screens if necessary
-      height: auto;
-    }
-  
-    img {
-      max-width: 100%; // Ensure the image scales to fit the container width
-      border-radius: 0%;
-  
-      @include breakpoint($large) {
-        padding: 5px;
-        border: 1.5px solid $border-color;
-      }
+      padding: 5px;
+      border: 1.5px solid $border-color;
     }
   }
-  
+}
+
 
 .author__content {
   display: table-cell;
