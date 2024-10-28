@@ -14,7 +14,8 @@
     margin-bottom: 1em;
   
     @include breakpoint($large) {
-      @include span(3 of 12); // Change span(2 of 12) to span(3 of 12) to make the sidebar wider
+      width: 280px; // Set a fixed width (adjust as needed)
+      max-width: 25%; // Maintain responsiveness (adjust as needed)
       opacity: 1;
       -webkit-transition: opacity 0.2s ease-in-out;
               transition: opacity 0.2s ease-in-out;
@@ -25,6 +26,7 @@
     }
   
     @include breakpoint($x-large) {
+      width: 300px; // Adjust width for larger screens
       padding-right: 0;
     }
   
@@ -54,15 +56,17 @@
     @include breakpoint($large) {
       position: relative;
       float: right;
-      width: $right-sidebar-width-narrow * 1.5; // Increase the width to 1.5 times the original
+      width: 250px; // Set a fixed width for right sidebar
+      max-width: 20%; // Adjust for responsiveness
       margin-left: span(0.5 of 12);
       z-index: 10;
     }
   
     @include breakpoint($x-large) {
-      width: $right-sidebar-width * 1.5; // Increase the width for extra-large screens as well
+      width: 300px; // Adjust width for larger screens
     }
   }
+  
 
 /*
    Author profile and links
