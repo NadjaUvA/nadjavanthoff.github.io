@@ -92,7 +92,7 @@ $~~~~~~~~~~~$
 <div class="paragraph-box">
 <h3>Optimal Instruments, Realistic Assumptions: Selecting Instruments and Addressing Exclusion Violations in High-Dimensional IV Models</h3>
 
-<p>with <a href="https://sites.google.com/site/giovannimellace/">Giovanni Mellace</a></p>
+<p>with <a href="https://sites.google.com/bc.edu/arthur-lewbel/home">Arthur Lewbel</a> and <a href="https://sites.google.com/site/giovannimellace/">Giovanni Mellace</a></p>
 </div>
 
 <div class="paragraph-box">
