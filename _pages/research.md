@@ -98,7 +98,7 @@ $~~~~~~~~~~~$
 <div class="paragraph-box">
 <h3>Behavioral Traits, Substance Abuse, and Life Outcomes: Insights from Mendelian Randomization with UK Biobank Data</h3>
 
-<p>with <a href="https://scholar.google.co.uk/citations?user=EaxwpCMAAAAJ&hl=en">Amy Mason</a>, and <a href="https://sites.google.com/site/giovannimellace/">Giovanni Mellace</a></p>
+<p>with <a href="https://scholar.google.co.uk/citations?user=EaxwpCMAAAAJ&hl=en">Amy Mason</a> and <a href="https://sites.google.com/site/giovannimellace/">Giovanni Mellace</a></p>
 
 <!-- <details>
   <summary>Show Abstract</summary>
