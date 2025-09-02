@@ -70,7 +70,7 @@ $~~~~~~~~~~~$
 <details>
   <summary>Show Abstract</summary>
   <blockquote>
-  This paper is the first to causally quantify gender differences in healthcare utilization to better understand the male-female health-survival paradox, where women live longer but experience worse health outcomes. Using rich Danish administrative healthcare data, we apply a staggered difference-in-differences approach that exploits the randomness in treatment timing to estimate the causal impact of adverse health shocks, such as non-fatal heart attacks or strokes, on healthcare use. Our findings suggest that men consistently use more healthcare than women, shedding light on the underlying factors driving gender disparities in health outcomes. These insights contribute to the broader discourse on healthcare equity and inform policy interventions aimed at addressing these imbalances.
+  This paper is the first to provide causal evidence of gender differences in healthcare utilisation to better understand the male-female health-survival paradox, where women live longer but experience worse health outcomes. Using rich Danish administrative healthcare data, we apply a staggered difference-in-differences approach that exploits the randomness in treatment timing to estimate the causal impact of adverse health shocks, such as non-fatal heart attacks or strokes, on healthcare use. Our findings suggest that men consistently use more healthcare than women, highlighting the underlying factors driving gender disparities in health outcomes. These insights contribute to the broader discourse on healthcare equity and inform policy interventions aimed at addressing these imbalances.
   </blockquote>
 </details>
 </div>
@@ -85,7 +85,7 @@ $~~~~~~~~~~~$
 <div class="paragraph-box">
 <h3>Shapley Instruments</h3>
 
-<p>with <a href="https://sites.google.com/site/federicocrudu/home">Federico Crudu</a> <a href="https://sites.google.com/site/giovannimellace/">Giovanni Mellace</a> and Zsolt Sandor</p>
+<p>with <a href="https://sites.google.com/site/federicocrudu/home">Federico Crudu</a>, <a href="https://sites.google.com/site/giovannimellace/">Giovanni Mellace</a> and Zsolt Sandor</p>
 </div>
 
 
