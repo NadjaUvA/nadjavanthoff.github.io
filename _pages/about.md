@@ -10,7 +10,7 @@ redirect_from:
 
 
 ------
-I am an Assistant Professor (non-tenure-track) at the Econometrics and Data Science group at the Department of Economics, University of Southern Denmark (SDU).  
+I am an Assistant Professor at the Quantitative Economics Section of the Amsterdam School of Economics, University of Amsterdam (UvA).  
 
 
 

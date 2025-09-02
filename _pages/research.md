@@ -9,6 +9,27 @@ author_profile: true
 
 $~~~~~~~~~~~$
 
+# Publications
+------
+
+<div class="paragraph-box">
+<h3>Limited Monotonicity and the Combined Compliers LATE</h3>
+<p>(Review of Economics and Statistics, forthcoming)</p>
+
+<p>with <a href="https://sites.google.com/bc.edu/arthur-lewbel/home">Arthur Lewbel</a> and <a href="https://sites.google.com/site/giovannimellace/">Giovanni Mellace</a></p>
+
+<details>
+  <summary>Show Abstract</summary>
+  <blockquote>
+  We consider endogenous binary treatment with multiple binary instruments. We propose a novel limited monotonicity (LiM) assumption that is generally weaker than alternative monotonicity assumptions in the literature. We define and identify (under LiM) the combined compliers local average treatment effect (CC-LATE), which is arguably a more policy-relevant parameter than the weighted average of LATEs identified by two-stage least squares (TSLS), and is valid under more general conditions. Estimating the CC-LATE is trivial, equivalent to running TSLS with one constructed instrument on a subsample. We use our CC-LATE to empirically assess how knowledge of HIV status influences protective behaviors.
+  </blockquote>
+</details>
+
+<p>Download: <a href="/files/LiM-CCLATE.pdf">📄</a></p>
+</div>
+
+$~~~~~~~~~~~$
+
 # Working papers
 ------
 
@@ -27,22 +48,6 @@ $~~~~~~~~~~~$
 </div>
 
 <div class="paragraph-box">
-<h3>Limited Monotonicity and the Combined Compliers LATE</h3>
-<p>(R&R at Review of Economics and Statistics)</p>
-
-<p>with <a href="https://sites.google.com/bc.edu/arthur-lewbel/home">Arthur Lewbel</a> and <a href="https://sites.google.com/site/giovannimellace/">Giovanni Mellace</a></p>
-
-<details>
-  <summary>Show Abstract</summary>
-  <blockquote>
-  We consider endogenous binary treatment with multiple binary instruments. We propose a novel limited monotonicity (LiM) assumption that is generally weaker than alternative monotonicity assumptions in the literature. We define and identify (under LiM) the combined compliers local average treatment effect (CC-LATE), which is arguably a more policy-relevant parameter than the weighted average of LATEs identified by two-stage least squares (TSLS), and is valid under more general conditions. Estimating the CC-LATE is trivial, equivalent to running TSLS with one constructed instrument on a subsample. We use our CC-LATE to empirically assess how knowledge of HIV status influences protective behaviors.
-  </blockquote>
-</details>
-
-<p>Download: <a href="/files/LiM-CCLATE.pdf">📄</a></p>
-</div>
-
-<div class="paragraph-box">
 <h3>Nudging Nutrition: Lessons from the Danish "Fat Tax"</h3>
 
 <p>with <a href="https://portal.findresearcher.sdu.dk/en/persons/christian-m%C3%B8ller-dahl">Christian Møller Dahl</a>, <a href="https://sites.google.com/site/giovannimellace/">Giovanni Mellace</a>, and <a href="https://ifro.ku.dk/english/staff/?pure=en%2Fpersons%2Fsinne-smed(1eeed0bc-bded-473c-bd06-98706e028225).html">Sinne Smed</a></p>
@@ -57,12 +62,6 @@ $~~~~~~~~~~~$
 <p>Download: <a href="https://arxiv.org/pdf/2312.11481.pdf">📄</a></p>
 </div>
 
-
-$~~~~~~~~~~~$
-
-# Work in progress
-------
-
 <div class="paragraph-box">
 <h3>Gender Differences in Healthcare Utilization</h3>
 
@@ -76,24 +75,19 @@ $~~~~~~~~~~~$
 </details>
 </div>
 
-<div class="paragraph-box">
-<h3>Heterogeneous Impacts of Microcredit: Insights from Seven Countries Using Generic Machine Learning</h3>
 
-<p>with <a href="https://annabaiardi.weebly.com/">Anna Baiardi</a> and <a href="https://sites.google.com/view/anaghi/home">Andrea Naghi</a></p>
+$~~~~~~~~~~~$
 
-<details>
-  <summary>Show Abstract</summary>
-  <blockquote>
-  We study the heterogeneous causal effects of microcredit projects across seven studies, aiming to identify the drivers of successful outcomes. In the literature, most studies have examined the causal effects of individual microcredit projects, with limited focus on effect heterogeneity. Previous reviews addressing heterogeneity have typically relied on Bayesian approaches, considering only a few variables or quantile effects. In contrast, we employ a generic machine learning approach that allows us to analyze a broad range of potential factors contributing to effect heterogeneity. Preliminary results from this approach reveal substantial variation in the factors driving higher loan uptake, profits, revenue, and consumption for microcredit projects in India, Bosnia and Herzegovina, Mexico and Mongolia. Our findings might suggest that no policy is universally effective, highlighting the need for microcredit interventions to be tailored to local conditions to maximize their impact.
-  </blockquote>
-</details>
-</div>
+# Work in progress
+------
+
 
 <div class="paragraph-box">
-<h3>Optimal Instruments, Realistic Assumptions: Selecting Instruments and Addressing Exclusion Violations in High-Dimensional IV Models</h3>
+<h3>Shapley Instruments</h3>
 
-<p>with <a href="https://sites.google.com/bc.edu/arthur-lewbel/home">Arthur Lewbel</a> and <a href="https://sites.google.com/site/giovannimellace/">Giovanni Mellace</a></p>
+<p>with <a href="https://sites.google.com/site/federicocrudu/home">Federico Crudu</a> <a href="https://sites.google.com/site/giovannimellace/">Giovanni Mellace<a> and Zsolt Sandor</p>
 </div>
+
 
 <div class="paragraph-box">
 <h3>Behavioral Traits, Substance Abuse, and Life Outcomes: Insights from Mendelian Randomization with UK Biobank Data</h3>
@@ -109,6 +103,18 @@ $~~~~~~~~~~~$
 </div>
 
 
+<div class="paragraph-box">
+<h3>Heterogeneous Impacts of Microcredit: Insights from Seven Countries Using Generic Machine Learning</h3>
+
+<p>with <a href="https://annabaiardi.weebly.com/">Anna Baiardi</a> and <a href="https://sites.google.com/view/anaghi/home">Andrea Naghi</a></p>
+
+<!-- <details>
+  <summary>Show Abstract</summary>
+  <blockquote>
+  We study the heterogeneous causal effects of microcredit projects across seven studies, aiming to identify the drivers of successful outcomes. In the literature, most studies have examined the causal effects of individual microcredit projects, with limited focus on effect heterogeneity. Previous reviews addressing heterogeneity have typically relied on Bayesian approaches, considering only a few variables or quantile effects. In contrast, we employ a generic machine learning approach that allows us to analyze a broad range of potential factors contributing to effect heterogeneity. Preliminary results from this approach reveal substantial variation in the factors driving higher loan uptake, profits, revenue, and consumption for microcredit projects in India, Bosnia and Herzegovina, Mexico and Mongolia. Our findings might suggest that no policy is universally effective, highlighting the need for microcredit interventions to be tailored to local conditions to maximize their impact.
+  </blockquote>
+</details> -->
+</div>
 
 
 $~~~~~~~~~~~$

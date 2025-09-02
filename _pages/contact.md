@@ -8,5 +8,5 @@ author_profile: true
 
 Get in touch by e-mail: 
 
-✉️ navh@sam.sdu.dk
+✉️ n.a.l.vanthoff@uva.nl
 
