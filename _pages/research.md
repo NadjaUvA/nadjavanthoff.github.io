@@ -85,7 +85,7 @@ $~~~~~~~~~~~$
 <div class="paragraph-box">
 <h3>Shapley Instruments</h3>
 
-<p>with <a href="https://sites.google.com/site/federicocrudu/home">Federico Crudu</a> <a href="https://sites.google.com/site/giovannimellace/">Giovanni Mellace<a> and Zsolt Sandor</p>
+<p>with <a href="https://sites.google.com/site/federicocrudu/home">Federico Crudu</a> <a href="https://sites.google.com/site/giovannimellace/">Giovanni Mellace</a> and Zsolt Sandor</p>
 </div>
 
 
