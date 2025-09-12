@@ -73,6 +73,8 @@ $~~~~~~~~~~~$
   This paper is the first to provide causal evidence of gender differences in healthcare utilisation to better understand the male-female health-survival paradox, where women live longer but experience worse health outcomes. Using rich Danish administrative healthcare data, we apply a staggered difference-in-differences approach that exploits the randomness in treatment timing to estimate the causal impact of adverse health shocks, such as non-fatal heart attacks or strokes, on healthcare use. Our findings suggest that men consistently use more healthcare than women, highlighting the underlying factors driving gender disparities in health outcomes. These insights contribute to the broader discourse on healthcare equity and inform policy interventions aimed at addressing these imbalances.
   </blockquote>
 </details>
+
+<p>Download: <a href="https://arxiv.org/pdf/2509.01310">📄</a></p>
 </div>
 
 

@@ -13,11 +13,11 @@ Powerlifting
 
 <img src="/files/me.JPG" alt="Me with Gold Medal" style="float: right; margin-left: 20px; max-width: 30%; height: auto;">
 
-Outside of work, you can find me in the gym powerlifting. Powerlifting is a strength sport focused on three main lifts: the squat, bench press, and deadlift. I really enjoy balancing the mental focus of my work with the physical intensity of powerlifting.
+<p>“Outside of work, you can find me in the gym powerlifting. Powerlifting is a strength sport focused on three lifts: squat, bench press, and deadlift. I enjoy balancing the mental focus of my work with the physical intensity of training, and I love the process of steady improvement in both.</p>
 
-While I’ve been into fitness for years, a powerlifting course during my research stay at Boston College inspired me to take my training to the next level. I became a certified fitness instructor in October 2022. In September 2024, I competed in my first powerlifting meet (Speijers Sports Entry-Level Competition), where a 125kg squat, 75kg bench, and 150kg deadlift earned me the gold medal in the 63kg weight class.
+<p>While I’ve been into fitness for years, a powerlifting course during my research stay at Boston College inspired me to take my training to the next level. I became a certified fitness instructor in October 2022. In September 2024, I competed in my first powerlifting meet, which was a bucket-list goal of mine. One meet turned into two, two turned into… well, let’s just say I don’t plan on stopping anytime soon.</p>
 
-Powerlifting has taught me perseverance, consistency, and patience. I love the process of continuous improvement, both in the gym and in my research.
+<p>You can see my current competition results <a href="https://www.openpowerlifting.org/u/nadjavanthoff">here</a>!</p>
 
 
 
@@ -41,7 +41,7 @@ The bench press is my favorite lift:
 
 <h3>Deadlift</h3>
 
-I hit a milestone by successfully deadlifting 150kg:
+And last but not least, the deadlift:
 
 <p>
   <img src="/files/deadlift.JPG" alt="Deadlift" style="max-width: 60%; height: auto;">
