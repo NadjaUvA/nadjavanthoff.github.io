@@ -63,7 +63,7 @@ $~~~~~~~~~~~$
 </div>
 
 <div class="paragraph-box">
-<h3>Gender Differences in Healthcare Utilization</h3>
+<h3>Gender Differences in Healthcare Utilization - Evidence from Unexpected Adverse Health Shocks</h3>
 
 <p>with <a href="https://sites.google.com/site/giovannimellace/">Giovanni Mellace</a> and <a href="https://www.seetha-menon.com/">Seetha Menon</a></p>
 
