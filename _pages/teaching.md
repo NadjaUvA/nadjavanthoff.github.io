@@ -5,6 +5,21 @@ title: ""
 
 {% include base_path %}
 
+Lecturer - Machine Learning for Quantitative Economics (6 ECTS)
+------
+
+*Bachelor students, University of Amsterdam*
+
+* Fall semester 2025
+
+Teaching assistant - Machine Learning for Econometrics (5 ECTS)
+------
+
+*Master students, University of Amsterdam*
+
+* Fall semester 2025
+
+
 Lecturer - Regression Analysis (10 ECTS)
 ------
 
