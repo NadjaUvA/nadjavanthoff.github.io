@@ -20,6 +20,14 @@ Teaching assistant - Machine Learning for Econometrics (5 ECTS)
 * Fall semester 2025
 
 
+Co-lecturer - Statistics (10 ECTS)
+------
+
+*Bachelor students, University of Southern Denmark*
+
+* Spring semester 2025
+
+
 Lecturer - Regression Analysis (10 ECTS)
 ------
 
