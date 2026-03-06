@@ -90,9 +90,9 @@ $~~~~~~~~~~~$
 </div>
 
 <div class="paragraph-box">
-<h3>HGroup-Level Treatment Effect Heterogeneity in Difference-in-Differences: A Balanced Approach</h3>
+<h3>Group-Level Treatment Effect Heterogeneity in Difference-in-Differences: A Balanced Approach</h3>
 
-<p>with <a>Nora Bearth</a> and <a href="https://torbensdjohansen.github.io/">Torben S. D. Johansen</a></p>
+<p>with Nora Bearth and <a href="https://torbensdjohansen.github.io/">Torben S. D. Johansen</a></p>
 
 <!-- <details>
   <summary>Show Abstract</summary>
@@ -114,7 +114,7 @@ $~~~~~~~~~~~$
   This project utilizes advanced Mendelian randomization techniques to estimate causal effects in two complex domains: the impacts of cannabis and alcohol abuse on educational, labor market, and health outcomes, and the influence of creativity and risk propensity on entrepreneurship. Leveraging the extensive UK Biobank dataset, the study aims to improve the reliability of causal inference in these areas. The findings will provide critical insights for policy interventions, including the potential for adapting educational systems to nurture traits that drive entrepreneurial success.
   </blockquote>
 </details> -->
-</div>
+<!-- </div> -->
 
 
 
