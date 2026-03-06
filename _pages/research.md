@@ -35,7 +35,6 @@ $~~~~~~~~~~~$
 
 <div class="paragraph-box">
 <h3>Identifying Causal Effects of Discrete, Ordered and Continuous Treatments using Multiple Instrumental Variables</h3>
-<p>(Job Market Paper)</p>
 
 <details>
   <summary>Show Abstract</summary>
@@ -90,6 +89,19 @@ $~~~~~~~~~~~$
 <p>with <a href="https://sites.google.com/site/federicocrudu/home">Federico Crudu</a>, <a href="https://sites.google.com/site/giovannimellace/">Giovanni Mellace</a> and Zsolt Sandor</p>
 </div>
 
+<div class="paragraph-box">
+<h3>HGroup-Level Treatment Effect Heterogeneity in Difference-in-Differences: A Balanced Approach</h3>
+
+<p>with <a>Nora Bearth</a> and <a href="https://torbensdjohansen.github.io/">Torben S. D. Johansen</a></p>
+
+<!-- <details>
+  <summary>Show Abstract</summary>
+  <blockquote>
+  We study the heterogeneous causal effects of microcredit projects across seven studies, aiming to identify the drivers of successful outcomes. In the literature, most studies have examined the causal effects of individual microcredit projects, with limited focus on effect heterogeneity. Previous reviews addressing heterogeneity have typically relied on Bayesian approaches, considering only a few variables or quantile effects. In contrast, we employ a generic machine learning approach that allows us to analyze a broad range of potential factors contributing to effect heterogeneity. Preliminary results from this approach reveal substantial variation in the factors driving higher loan uptake, profits, revenue, and consumption for microcredit projects in India, Bosnia and Herzegovina, Mexico and Mongolia. Our findings might suggest that no policy is universally effective, highlighting the need for microcredit interventions to be tailored to local conditions to maximize their impact.
+  </blockquote>
+</details> -->
+</div>
+
 
 <div class="paragraph-box">
 <h3>Behavioral Traits, Substance Abuse, and Life Outcomes: Insights from Mendelian Randomization with UK Biobank Data</h3>
@@ -105,7 +117,9 @@ $~~~~~~~~~~~$
 </div>
 
 
-<div class="paragraph-box">
+
+
+<!-- <div class="paragraph-box">
 <h3>Heterogeneous Impacts of Microcredit: Insights from Seven Countries Using Generic Machine Learning</h3>
 
 <p>with <a href="https://annabaiardi.weebly.com/">Anna Baiardi</a> and <a href="https://sites.google.com/view/anaghi/home">Andrea Naghi</a></p>
@@ -116,7 +130,7 @@ $~~~~~~~~~~~$
   We study the heterogeneous causal effects of microcredit projects across seven studies, aiming to identify the drivers of successful outcomes. In the literature, most studies have examined the causal effects of individual microcredit projects, with limited focus on effect heterogeneity. Previous reviews addressing heterogeneity have typically relied on Bayesian approaches, considering only a few variables or quantile effects. In contrast, we employ a generic machine learning approach that allows us to analyze a broad range of potential factors contributing to effect heterogeneity. Preliminary results from this approach reveal substantial variation in the factors driving higher loan uptake, profits, revenue, and consumption for microcredit projects in India, Bosnia and Herzegovina, Mexico and Mongolia. Our findings might suggest that no policy is universally effective, highlighting the need for microcredit interventions to be tailored to local conditions to maximize their impact.
   </blockquote>
 </details> -->
-</div>
+<!-- </div> --> -->
 
 
 $~~~~~~~~~~~$
