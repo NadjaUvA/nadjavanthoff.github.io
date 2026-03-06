@@ -114,7 +114,7 @@ $~~~~~~~~~~~$
   This project utilizes advanced Mendelian randomization techniques to estimate causal effects in two complex domains: the impacts of cannabis and alcohol abuse on educational, labor market, and health outcomes, and the influence of creativity and risk propensity on entrepreneurship. Leveraging the extensive UK Biobank dataset, the study aims to improve the reliability of causal inference in these areas. The findings will provide critical insights for policy interventions, including the potential for adapting educational systems to nurture traits that drive entrepreneurial success.
   </blockquote>
 </details> -->
-<!-- </div> -->
+</div>
 
 
 
@@ -130,7 +130,7 @@ $~~~~~~~~~~~$
   We study the heterogeneous causal effects of microcredit projects across seven studies, aiming to identify the drivers of successful outcomes. In the literature, most studies have examined the causal effects of individual microcredit projects, with limited focus on effect heterogeneity. Previous reviews addressing heterogeneity have typically relied on Bayesian approaches, considering only a few variables or quantile effects. In contrast, we employ a generic machine learning approach that allows us to analyze a broad range of potential factors contributing to effect heterogeneity. Preliminary results from this approach reveal substantial variation in the factors driving higher loan uptake, profits, revenue, and consumption for microcredit projects in India, Bosnia and Herzegovina, Mexico and Mongolia. Our findings might suggest that no policy is universally effective, highlighting the need for microcredit interventions to be tailored to local conditions to maximize their impact.
   </blockquote>
 </details> -->
-<!-- </div> --> -->
+<!-- </div> --> 
 
 
 $~~~~~~~~~~~$
